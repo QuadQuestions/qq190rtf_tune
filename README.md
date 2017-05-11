@@ -1,3 +1,7 @@
+# qq190rtf_tune
+ -where we work to dial in tuning settings for the QQ190rtf
+ We have found that it is important for us to track the changes of the tune as it develops, and reach out to team pilots for their suggestions and pull requests if they have found a better set of settings.  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QuadQuestions/qq190rtf_tune/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
